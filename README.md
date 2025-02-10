@@ -1,0 +1,1 @@
+This repo contains a simple TypeScript bug and its solution. The bug demonstrates a type error that occurs when assigning a string value to a variable of type 'Date'.
